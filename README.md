@@ -19,34 +19,49 @@
 * Implémenter un **memoizer générique** avec `Function` et `ConcurrentHashMap` afin de mettre en cache les résultats.
 * Ce TP permet de rendre le code Java plus **expressif, modulaire et adapté aux architectures modernes**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020423.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020431.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020442.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020452.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020503.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020511.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020527.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020538.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020551.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020602.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020613.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020623.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020638.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020647.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020726.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020733.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020746.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020754.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020803.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020815.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020825.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020837.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-16 020848.png" />
+
